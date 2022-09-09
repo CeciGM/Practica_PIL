@@ -27,4 +27,4 @@ print("Desde visualstudio")
 
 # Entrada de datos, funcion input()
 
-input("Ingrese un mensaje: ")
+print(input("Ingrese un mensaje: "))
