@@ -1,8 +1,30 @@
-#Funcion print
+# Salida de datos
+# Funcion print
 print("Hola Mudno")
 print("hi, he's new")
 
-print("Hola Mundo\n") #el \n me deja un espacio debajo, hace un salto.
-print("Desde \nvisualstudio") #en el medio me separa las lineas, una debajo de otra.
+# Otras funciones del print
 
-#Otras funciones del print
+# Salto de linea y tabulacion
+print("Hola Mundo\n") 
+print("Desde \nvisualstudio") 
+
+print ("Esto es un salto de linea\n y esto \tes una tabulacion")
+
+# CONCATENAR
+print("Hola"+"mundo")
+print("Hola" + ' ' +"mundo")
+# Otra forma de separar
+print("Hola", "mundo", sep=" ")
+print("Hola", "mundo", sep="-")
+
+# End 
+print("Hola mundo...", end="")
+print("Desde visualstudio") 
+
+print("Hola mundo...", end="\t")
+print("Desde visualstudio") 
+
+# Entrada de datos, funcion input()
+
+input("Ingrese un mensaje: ")
