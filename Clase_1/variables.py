@@ -1,5 +1,3 @@
-from re import M
-
 
 # Variables
 # mensaje_usuario = input("Ingrese un mensaje: ")
