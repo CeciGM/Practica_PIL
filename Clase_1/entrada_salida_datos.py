@@ -1,2 +1,3 @@
 #Entrada de datos
-input("Ingrese un mensaje:")
+print("Hola Mudno")
+Print("hi, he's new")
